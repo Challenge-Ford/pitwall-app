@@ -1,4 +1,4 @@
-<div align="center">
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/ccdb8e3f-1b9d-4af7-9dd6-942d21f25442" /><div align="center">
 
 <img src="./assets/images/homepage.png" alt="Torque App" width="280"/>
 
@@ -45,6 +45,16 @@ O **Torque** é um aplicativo mobile desenvolvido para concessionárias e gerent
 O app consome dados da **API pública da NHTSA** para exibir recalls ativos, histórico de revisões e decodificação de VIN em tempo real, conectando informações técnicas do veículo diretamente com o fluxo comercial da concessionária.
 
 ---
+
+## Imagens do Projeto
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/b92b3130-0dd0-4cd3-83d5-1aa0649f7716" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/0103e523-59b5-4782-84d4-405ee2fab252" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/ae81c1cc-5ccb-47c0-a4b7-193e2ab63290" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/4296048c-86a6-4d62-8dd6-acb2178888e3" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/f2e84970-227e-4351-8b26-ad1cc8d422ad" />
+<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/4bbe60c2-84f6-4179-b8e6-bd0a4e04b4e1" />
+
+
 
 ## Contexto e Problema
 
