@@ -1,5 +1,3 @@
-<img width="634" height="1378" alt="image" src="https://github.com/user-attachments/assets/ccdb8e3f-1b9d-4af7-9dd6-942d21f25442" /><div align="center">
-
 <img src="./assets/images/homepage.png" alt="Torque App" width="280"/>
 
 # 🔧 Pitwall (ex-Torque) — Ford VIN Share App
